@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.springbootdevops.model.Employee;
 import com.springbootdevops.services.EmployeeService;
 
-
+//Rest application demo
 @RestController
 @RequestMapping("/employee")
 public class RestMainController {
